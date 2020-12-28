@@ -68,7 +68,7 @@ header .banner {
 }
 
 header .banner-text {
-    width: 100%;
+    width: 20px;
 }
 
 header .banner-text h1 {
@@ -146,7 +146,7 @@ header .scrolldown a {
 }
 
 header .scrolldown a:hover {
-    color: #11ABB0;
+    color:  #1D4350;
 }
 
 
@@ -179,6 +179,7 @@ header .scrolldown a:hover {
 
 .opaque {
     background-color: #333;
+    background-image: linear-gradient(135deg, #1D4350 0%, #A43931 100%);
 }
 
 
@@ -237,6 +238,7 @@ ul#nav li.current a {
 
 #about {
     background: #2B2B2B;
+    background-image: linear-gradient(135deg, #1D4350 0%, #A43931 100%);
     padding-top: 96px;
     padding-bottom: 66px;
     overflow: hidden;
@@ -413,6 +415,7 @@ ul#nav li.current a {
     margin: 0;
     padding-right: 24px;
     background: #313131;
+    background-image: linear-gradient(135deg, #1D4350 0%, #A43931 100%);
     display: inline-block;
     height: 42px;
     line-height: 42px;
@@ -800,10 +803,10 @@ call-to-action .button {
 
 /* ------------------------------------------------------------------
 /* g. Testimonials
-/* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ 
 
 #testimonials {
-    background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+    background-image: linear-gradient(135deg, #1D4350 0%, #A43931 100%);
     background-size: cover !important;
     -webkit-background-size: cover !important;
     background-attachment: fixed;
@@ -842,10 +845,10 @@ call-to-action .button {
     text-align: left;
     float: left;
     color: #fff;
-}
+}*/
 
 
-/*	Blockquotes */
+/*	Blockquotes 
 
 #testimonials blockquote {
     margin: 0 0px 30px 0px;
@@ -882,7 +885,7 @@ call-to-action .button {
 #testimonials blockquote cite a:visited {
     color: #8B9798;
     border: none
-}
+}*/
 
 
 /* Flex Slider
@@ -1307,5 +1310,4 @@ footer .social-links li:first-child {
 }
 
 #go-top a:hover {
-    background-color: #0F9095;
-}
+    background-color:  #1D4350;

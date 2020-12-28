@@ -1,21 +1,21 @@
 {
     "main": {
         "name": "Moyo Martins",
-        "occupation": "Frontend Developer, Graphic Desighner, UI/UX Developer, Architecture ",
+        "occupation": "Designer.Architect.Developer ",
         "description": "",
         "image": "profile.jpg",
-        "bio": "I'm Moyo Martins, I'm a Front-end Developer, UI/UX Developer, Graphic Desighner, and an Architect ",
+        "bio": "I'm Moyo Martins, I'm a Front-end Developer, UI/UX Developer, Graphic Designer, and an Architect ",
         "contactmessage": "Get in touch with me.",
         "email": "Martinstm@yahoo.com",
         "phone": "+234 811 2569 814",
         "address": {
             "street": "",
-            "city": "Lagos, Nigeria",
+            "city": "",
             "state": "Lagos",
             "zip": ""
         },
-        "website": "http://www.timbakerdev.com",
-        "resumedownload": "http://timbakerdev.com",
+        "website": "http://www.moyomartins.com",
+        "resumedownload": "cvmoyo.pdf",
         "social": [{
                 "name": "dribbble",
                 "url": "https://dribbble.com/leroy26",
@@ -46,10 +46,10 @@
     "resume": {
         "skillmessage": "",
         "education": [{
-            "school": "University of Kent",
-            "degree": "Masters in Advanced Computer Science",
-            "graduated": "January 2017",
-            "description": "Graduated with Distinction"
+            "school": "University of Ibadan",
+            "degree": "Agricultural&Enviromental Engineering",
+            "graduated": "",
+            "description": ""
         }],
         "work": [{
                 "company": "Clever Programmer",
@@ -66,7 +66,7 @@
         ],
         "skills": [{
                 "name": "ReactJs",
-                "level": "60%"
+                "level": "55%"
             },
             {
                 "name": "CSS",
@@ -94,7 +94,7 @@
             },
             {
                 "name": "Adobe Illustrator",
-                "level": "50%"
+                "level": "85%"
             },
             {
                 "name": "Photography",
@@ -104,45 +104,27 @@
     },
     "portfolio": {
         "projects": [{
-                "title": "MERN Stack WhatsApp Clone",
-                "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-                "image": "whatsapp-mern.jpeg",
-                "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+                "title": "Colossal Construct",
+                "category": "Logo and UI design of Colossal Construct",
+                "image": "2.jpg",
+                "url": "https://www.instagram.com/p/CHhcz0CAHeq/"
             },
             {
-                "title": "MERN Stack TikTok Clone",
-                "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-                "image": "tiktok-mern.jpeg",
-                "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-            },
-            {
-                "title": "Facebook Clone with React",
-                "category": "Facebook Clone built with ReactJS",
-                "image": "facebook-clone.png",
-                "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-            },
-            {
-                "title": "Airbnb Clone",
-                "category": "Facebook Clone built with ReactJS",
-                "image": "airbnb-clone.jpeg",
-                "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-            },
-            {
-                "title": "Netflix Clone",
-                "category": "Facebook Clone built with ReactJS",
-                "image": "netflix-clone.jpeg",
-                "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+                "title": "Illustration",
+                "category": "Illustration Created with Adobe Illustrator and Photoshop",
+                "image": "Hakeem.png",
+                "url": "https://dribbble.com/shots/13984327-inlove"
             }
         ]
     },
     "testimonials": {
         "testimonials": [{
-                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-                "user": "Kareem Abdul Jabbar"
+                "text": "Picasso .",
+                "user": "Enyioma Osondu"
             },
             {
-                "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-                "user": "Steve Wozniak... impersonator"
+                "text": "He creates beautiful designs",
+                "user": "Hakeem"
             }
         ]
     }
