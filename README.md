@@ -2,7 +2,7 @@
 
 
 ## <a href="https://moyomartins.netlify.app/">LIVE DEMO</a>
-
+![ReactJS Resume Website Template](gitpic.png?raw=true "ReactJS Resume Website Template")
 ## Description
 This is a ReactJS based personal resume website template  
 
