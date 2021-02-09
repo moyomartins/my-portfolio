@@ -66,11 +66,11 @@
         ],
         "skills": [{
                 "name": "ReactJs",
-                "level": "55%"
+                "level": "60%"
             },
             {
                 "name": "CSS",
-                "level": "85%"
+                "level": "75%"
             },
             {
                 "name": "Git",
@@ -86,11 +86,11 @@
             },
             {
                 "name": "Figma",
-                "level": "50%"
+                "level": "60%"
             },
             {
                 "name": "Adobe Photoshop",
-                "level": "85%"
+                "level": "75%"
             },
             {
                 "name": "Adobe Illustrator",
@@ -110,12 +110,6 @@
                 "url": "https://www.instagram.com/p/CHhcz0CAHeq/"
             },
             {
-                "title": "Illustration",
-                "category": "Illustration Created with Adobe Illustrator and Photoshop",
-                "image": "Hakeem.png",
-                "url": "https://dribbble.com/shots/13984327-inlove"
-            },
-            {
                 "title": "Branding and logo design of xo sound",
                 "category": "Branding and logo Created with Adobe Illustrator and Photoshop",
                 "image": "sound.jpg",
@@ -125,33 +119,20 @@
                 "title": "re-branding and logo design of Vale",
                 "category": "Branding and logo Created with Adobe Illustrator and Photoshop",
                 "image": "vale1.jpg",
-                "url": "https://www.instagram.com/p/CFQllRcB45c/"
-            },
-            {
-                "title": "logo design of The mountain",
-                "category": "graphic design",
-                "image": "mountain.jpg",
-                "url": "https://www.instagram.com/p/CFh5zBOnDeS/"
+                "url": "https://twitter.com/oreee_m/status/1251981121014857729?s=20"
             },
             {
                 "title": "Lurisbyte",
                 "category": "UX/UI, graphic design & logo design",
-                "image": "byte.png",
+                "image": "flow diagram.png",
                 "url": "https://xd.adobe.com/view/a16e94fb-0d5d-4348-a5af-af60145845c4-f43d/?fullscreen"
             },
             {
                 "title": "logo design of Fruity confectioneries",
-                "category": "graphic design & logo design",
+                "category": "graphic design|logo design|illustration",
                 "image": "fruity.jpg",
                 "url": "https://dribbble.com/shots/10949770-fruity-bites-logo"
-            },
-            {
-                "title": "logo design",
-                "category": "logo design",
-                "image": "stryker.jpg",
-                "url": "https://www.instagram.com/p/CGjDgU2AoKe/"
             }
-
         ]
     },
     "testimonials": {

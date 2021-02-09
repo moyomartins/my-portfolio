@@ -41,7 +41,8 @@ header {
     height: 800px;
     min-height: 500px;
     width: 100%;
-    background: #161415 url(../images/background.jpg) no-repeat top center;
+    /* background: #161415 url(../images/background.jpg) no-repeat top center; */
+    background: #161415;
     background-size: cover !important;
     -webkit-background-size: cover !important;
     text-align: center;
@@ -68,7 +69,7 @@ header .banner {
 }
 
 header .banner-text {
-    width: 20px;
+    width: 100%;
 }
 
 header .banner-text h1 {
@@ -238,7 +239,7 @@ ul#nav li.current a {
 
 #about {
     background: #2B2B2B;
-    background-image: linear-gradient(135deg, #1D4350 0%, #A43931 100%);
+    /* background-image: linear-gradient(135deg, #1D4350 0%, #A43931 100%); */
     padding-top: 96px;
     padding-bottom: 66px;
     overflow: hidden;
@@ -308,7 +309,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
-    background: #fff;
+    background: #161415;
     padding-top: 90px;
     padding-bottom: 72px;
     overflow: hidden;
@@ -400,7 +401,7 @@ ul#nav li.current a {
 
 .bars li em {
     font: 15px 'opensans-bold', sans-serif;
-    color: #313131;
+    color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: normal;
@@ -519,7 +520,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-    background: #ebeeee;
+    background: #161415;
     padding-top: 90px;
     padding-bottom: 60px;
 }
@@ -536,6 +537,8 @@ ul#nav li.current a {
 #portfolio-wrapper {
     display: flex;
     flex-wrap: wrap;
+    
+
 }
 
 
@@ -546,8 +549,8 @@ ul#nav li.current a {
 }
 
 .portfolio-item .item-wrap {
-    background: #fff;
-    overflow: hidden;
+    background: no-repeat top center;
+    overflow: hidden; 
     position: relative;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
