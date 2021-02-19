@@ -38,7 +38,7 @@
             },
             {
                 "name": "github",
-                "url": "https://github.com/leroy026",
+                "url": "https://github.com/moyomartins",
                 "className": "fa fa-github"
             }
         ]
@@ -104,6 +104,12 @@
     },
     "portfolio": {
         "projects": [{
+            "title": "Frames",
+            "category": "Logo and UI design and prototype of frames",
+            "image": "frames.jpg",
+            "url": "https://xd.adobe.com/view/ac45e724-254a-4a39-b9cb-430397e88151-f916/?fullscreen"
+            },
+            {
                 "title": "Colossal Construct",
                 "category": "Logo and UI design of Colossal Construct",
                 "image": "2.jpg",
@@ -126,6 +132,12 @@
                 "category": "UX/UI, graphic design & logo design",
                 "image": "flow diagram.png",
                 "url": "https://xd.adobe.com/view/a16e94fb-0d5d-4348-a5af-af60145845c4-f43d/?fullscreen"
+            },
+            {
+                "title": "Audio sync app",
+                "category": "Logo and UI design of audio sync",
+                "image": "audio-sync.png",
+                "url": "https://xd.adobe.com/view/3d3f2c6a-bb06-4d41-9a80-82c85455e11c-686c/"
             },
             {
                 "title": "logo design of Fruity confectioneries",
