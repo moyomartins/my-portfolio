@@ -46,6 +46,11 @@ const Contact = ({ data }) => {
                   </div>
 
                   <div>
+						   {/* <label htmlFor="contactEmail">Email <span className="required">*</span></label> */}
+						   {/* <input value={email} type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={e=> setEmail(e.target.value)}/> */}
+                  </div>
+
+                  <div>
 						   <label htmlFor="contactSubject">Subject</label>
 						   <input value={subject} type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={e => setSubject(e.target.value)}/>
                   </div>
