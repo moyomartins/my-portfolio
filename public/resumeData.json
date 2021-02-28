@@ -86,7 +86,7 @@
             },
             {
                 "name": "Figma",
-                "level": "60%"
+                "level": "75%"
             },
             {
                 "name": "Adobe Photoshop",
@@ -106,8 +106,26 @@
         "projects": [{
             "title": "Frames",
             "category": "Logo and UI design and prototype of frames",
-            "image": "frames.jpg",
+            "image": "frames.png",
             "url": "https://xd.adobe.com/view/ac45e724-254a-4a39-b9cb-430397e88151-f916/?fullscreen"
+            },
+            {
+                "title": "Lurisbyte",
+                "category": "UX/UI, graphic design & logo design",
+                "image": "flow diagram.png",
+                "url": "https://xd.adobe.com/view/a16e94fb-0d5d-4348-a5af-af60145845c4-f43d/?fullscreen"
+            },
+            {
+                "title": "Audio sync app",
+                "category": "Logo and UI design of audio sync",
+                "image": "audio-sync.png",
+                "url": "https://xd.adobe.com/view/3d3f2c6a-bb06-4d41-9a80-82c85455e11c-686c/"
+            },
+            {
+                "title": "chathub",
+                "category": "still working on this",
+                "image": "chathub.png",
+                "url": ""
             },
             {
                 "title": "Colossal Construct",
@@ -126,18 +144,6 @@
                 "category": "Branding and logo Created with Adobe Illustrator and Photoshop",
                 "image": "vale1.jpg",
                 "url": "https://twitter.com/oreee_m/status/1251981121014857729?s=20"
-            },
-            {
-                "title": "Lurisbyte",
-                "category": "UX/UI, graphic design & logo design",
-                "image": "flow diagram.png",
-                "url": "https://xd.adobe.com/view/a16e94fb-0d5d-4348-a5af-af60145845c4-f43d/?fullscreen"
-            },
-            {
-                "title": "Audio sync app",
-                "category": "Logo and UI design of audio sync",
-                "image": "audio-sync.png",
-                "url": "https://xd.adobe.com/view/3d3f2c6a-bb06-4d41-9a80-82c85455e11c-686c/"
             },
             {
                 "title": "logo design of Fruity confectioneries",
