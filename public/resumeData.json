@@ -14,27 +14,17 @@
             "state": "Lagos",
             "zip": ""
         },
-        "website": "http://www.moyomartins.com",
-        "resumedownload": "cvmoyo.pdf",
+        "website": "http://www.moyomartins.netlify.app",
+        "resumedownload": "moyo-martins.pdf",
         "social": [{
                 "name": "dribbble",
                 "url": "https://dribbble.com/leroy26",
                 "className": "fa fa-dribbble"
             },
             {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/moyosore-martins-abb785202/",
-                "className": "fa fa-linkedin"
-            },
-            {
                 "name": "twitter",
                 "url": "https://twitter.com/oreee_m",
                 "className": "fa fa-twitter"
-            },
-            {
-                "name": "instagram",
-                "url": "https://www.instagram.com/moyo_martins/",
-                "className": "fa fa-instagram"
             },
             {
                 "name": "github",
@@ -68,6 +58,15 @@
                 "name": "ReactJs",
                 "level": "60%"
             },
+            
+            {
+                "name": "Adobe XD",
+                "level": "95%"
+            },
+            {
+                "name": "Figma",
+                "level": "75%"
+            },
             {
                 "name": "CSS",
                 "level": "75%"
@@ -77,17 +76,14 @@
                 "level": "60%"
             },
             {
-                "name": "Adobe XD",
-                "level": "95%"
-            },
-            {
                 "name": "HTML5",
                 "level": "80%"
             },
             {
-                "name": "Figma",
-                "level": "75%"
+                "name": "Adobe Lightroom",
+                "level": "70%"
             },
+            
             {
                 "name": "Adobe Photoshop",
                 "level": "75%"

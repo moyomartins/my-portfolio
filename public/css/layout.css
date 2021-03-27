@@ -26,7 +26,7 @@
 /* ------------------------------------------------------------------ */
 
 body {
-    background: #fff;
+    background: #161415;
 }
 
 
@@ -73,16 +73,19 @@ header .banner-text {
 }
 
 header .banner-text h1 {
-    font: 90px/1.1em 'opensans', sans-serif;
+    font: 90px/1.1em 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
     color: #fff;
+    font-weight: bold;
     letter-spacing: -2px;
     margin: 0 auto 18px auto;
     text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 
 header .banner-text h3 {
-    font: 18px/1.9em 'librebaskerville-regular', serif;
+    font: 18px/1.9em 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #A8A8A8;
+    letter-spacing: 1px;
     margin: 0 auto;
     width: 70%;
     text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -117,11 +120,11 @@ header .social li {
 }
 
 header .social li a {
-    color: #fff;
+    color: #303030;
 }
 
 header .social li a:hover {
-    color: #11ABB0;
+    color: #fff;
 }
 
 
@@ -147,7 +150,7 @@ header .scrolldown a {
 }
 
 header .scrolldown a:hover {
-    color:  #1D4350;
+    color:  #303030;
 }
 
 
@@ -195,6 +198,7 @@ ul#nav {
     width: auto;
     /* center align the menu */
     text-align: center;
+    /* margin-left: 15.4rem; */
 }
 
 ul#nav li {
@@ -1313,4 +1317,4 @@ footer .social-links li:first-child {
 }
 
 #go-top a:hover {
-    background-color:  #1D4350;
+    background-color:  #303030;
