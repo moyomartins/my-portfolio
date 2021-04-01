@@ -56,7 +56,7 @@
         ],
         "skills": [{
                 "name": "ReactJs",
-                "level": "60%"
+                "level": "65%"
             },
             
             {
@@ -118,10 +118,10 @@
                 "url": "https://xd.adobe.com/view/3d3f2c6a-bb06-4d41-9a80-82c85455e11c-686c/"
             },
             {
-                "title": "chathub",
-                "category": "still working on this",
-                "image": "chathub.png",
-                "url": ""
+                "title": "Orpheus",
+                "category": "UI/UX",
+                "image": "orpheus.jpg",
+                "url": "orpheus.jpg"
             },
             {
                 "title": "Colossal Construct",
@@ -144,7 +144,7 @@
             {
                 "title": "logo design of Fruity confectioneries",
                 "category": "graphic design|logo design|illustration",
-                "image": "fruity.jpg",
+                "image": "00001.jpg",
                 "url": "https://dribbble.com/shots/10949770-fruity-bites-logo"
             }
         ]
