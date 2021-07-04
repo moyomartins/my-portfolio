@@ -55,25 +55,24 @@
             }
         ],
         "skills": [{
-                "name": "ReactJs",
-                "level": "65%"
-            },
-            
-            {
                 "name": "Adobe XD",
-                "level": "95%"
+                "level": "100%"
             },
             {
                 "name": "Figma",
+                "level": "100%"
+            },
+            {
+                "name": "ReactJs",
                 "level": "75%"
             },
             {
                 "name": "CSS",
-                "level": "75%"
+                "level": "80%"
             },
             {
                 "name": "Git",
-                "level": "60%"
+                "level": "70%"
             },
             {
                 "name": "HTML5",
@@ -86,11 +85,15 @@
             
             {
                 "name": "Adobe Photoshop",
-                "level": "75%"
+                "level": "80%"
             },
             {
                 "name": "Adobe Illustrator",
-                "level": "85%"
+                "level": "90%"
+            },
+            {
+                "name": "Adobe InDesign",
+                "level": "70%"
             },
             {
                 "name": "Photography",
@@ -116,12 +119,6 @@
                 "category": "Logo and UI design of audio sync",
                 "image": "audio-sync.png",
                 "url": "https://xd.adobe.com/view/3d3f2c6a-bb06-4d41-9a80-82c85455e11c-686c/"
-            },
-            {
-                "title": "Orpheus",
-                "category": "UI/UX",
-                "image": "orpheus.jpg",
-                "url": "orpheus.jpg"
             },
             {
                 "title": "Colossal Construct",
