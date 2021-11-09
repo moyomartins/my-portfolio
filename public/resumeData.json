@@ -1,10 +1,10 @@
 {
     "main": {
-        "name": "Moyo Martins",
-        "occupation": "Designer.Architect.Developer ",
+        "name": "Welcome to my Portfolio",
+        "occupation": "Product Designer & an Architect",
         "description": "",
         "image": "profile.jpg",
-        "bio": "I'm Moyo Martins, I'm a Front-end Developer, UI/UX Developer, Graphic Designer, and an Architect ",
+        "bio": "I'm Moyo Martins, I'm a Product Designer and an Architect",
         "contactmessage": "Get in touch with me.",
         "email": "martinstm@yahoo.com",
         "phone": "+234 811 2569 814",
@@ -17,19 +17,24 @@
         "website": "http://www.moyomartins.netlify.app",
         "resumedownload": "moyo martins.pdf",
         "social": [{
-                "name": "dribbble",
-                "url": "https://dribbble.com/leroy26",
-                "className": "fa fa-dribbble"
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/moyosore-martins-abb785202/",
+                "className": "fa fa-linkedin"
             },
             {
                 "name": "twitter",
-                "url": "https://twitter.com/oreee_m",
+                "url": "https://twitter.com/moyomart1ns",
                 "className": "fa fa-twitter"
             },
             {
                 "name": "github",
                 "url": "https://github.com/moyomartins",
                 "className": "fa fa-github"
+            },
+            {
+                "name": "dribbble",
+                "url": "https://dribbble.com/moyomartins",
+                "className": "fa fa-dribbble"
             }
         ]
     },
@@ -42,10 +47,10 @@
             "description": ""
         }],
         "work": [{
-                "company": "",
-                "title": "",
-                "years": "",
-                "description": ""
+                "company": "Uneleap",
+                "title": "Lead Product Designer",
+                "years": "1year",
+                "description": "I'm the lead on mobile app and web designs"
             },
             {
                 "company": "",
@@ -60,6 +65,10 @@
             },
             {
                 "name": "Figma",
+                "level": "100%"
+            },
+            {
+                "name": "balsamiq",
                 "level": "100%"
             },
             {
