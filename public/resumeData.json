@@ -16,11 +16,7 @@
         },
         "website": "http://www.moyomartins.netlify.app",
         "resumedownload": "moyo martins.pdf",
-        "social": [{
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/moyosore-martins-abb785202/",
-                "className": "fa fa-linkedin"
-            },
+        "social": [
             {
                 "name": "twitter",
                 "url": "https://twitter.com/moyomart1ns",
@@ -35,6 +31,11 @@
                 "name": "dribbble",
                 "url": "https://dribbble.com/moyomartins",
                 "className": "fa fa-dribbble"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/moyosore-martins-abb785202/",
+                "className": "fa fa-linkedin"
             }
         ]
     },

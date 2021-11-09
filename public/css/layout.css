@@ -115,8 +115,8 @@ header .social {
 
 header .social li {
     display: inline-block;
-    margin: 0.5rem 10px;
-    padding: 0;
+    margin: 0.5rem 20px;
+    padding: 5px;
 }
 
 header .social li a {
